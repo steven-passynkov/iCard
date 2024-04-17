@@ -1,0 +1,7 @@
+ion-item {
+  --transition: none;
+}
+
+ion-modal#auto-height-sheet {
+  --height: auto;
+}

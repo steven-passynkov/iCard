@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": "cd673c4d-cded-4239-a838-d3437559e767",
+      "name": "John Doe",
+      "username": "@johndeo",
+      "private": true,
+      "accounts": [
+        [
+          "Instagram",
+          "@username"
+        ],
+        [
+          "Snapchat",
+          "@username"
+        ],
+        [
+          "Tiktok",
+          "@username"
+        ]
+      ],
+      "contacts": [
+        "32322323-3448-47cf-9a44-37d5d752f513",
+        "55b8a4f9-217c-459f-a84b-ef299e48ac6c",
+        "62530843-20ac-43ea-b0e9-db876edb9b2c"
+      ],
+      "notifications": [
+        "32322323-3448-47cf-9a44-37d5d752f513",
+        "55b8a4f9-217c-459f-a84b-ef299e48ac6c",
+        "62530843-20ac-43ea-b0e9-db876edb9b2c"
+      ]
+    },
+    {
+      "id": "32322323-3448-47cf-9a44-37d5d752f513",
+      "name": "Jane Doe",
+      "username": "@janedeo",
+      "private": true,
+      "accounts": [],
+      "contacts": [],
+      "notifications": []
+    },
+    {
+      "id": "55b8a4f9-217c-459f-a84b-ef299e48ac6c",
+      "name": "Steven Passynkov",
+      "username": "@passynkovsteven",
+      "private": false,
+      "accounts": [
+        [
+          "Instagram",
+          "@username"
+        ],
+        [
+          "Snapchat",
+          "@username"
+        ],
+        [
+          "Tiktok",
+          "@username"
+        ]
+      ],
+      "contacts": [
+        "32322323-3448-47cf-9a44-37d5d752f513",
+        "55b8a4f9-217c-459f-a84b-ef299e48ac6c",
+        "62530843-20ac-43ea-b0e9-db876edb9b2c"
+      ],
+      "notifications": []
+    },
+    {
+      "id": "62530843-20ac-43ea-b0e9-db876edb9b2c",
+      "name": "Gregory Ovis",
+      "username": "@gregoryovis",
+      "private": false,
+      "accounts": [
+        [
+          "Instagram",
+          "@username"
+        ],
+        [
+          "Snapchat",
+          "@username"
+        ],
+        [
+          "Tiktok",
+          "@username"
+        ]
+      ],
+      "contacts": [
+        "32322323-3448-47cf-9a44-37d5d752f513",
+        "55b8a4f9-217c-459f-a84b-ef299e48ac6c",
+        "62530843-20ac-43ea-b0e9-db876edb9b2c"
+      ],
+      "notifications": []
+    }
+  ]
+}

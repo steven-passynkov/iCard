@@ -1,0 +1,7 @@
+{
+  "name": "iCard-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
